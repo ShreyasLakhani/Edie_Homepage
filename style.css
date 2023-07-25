@@ -52,7 +52,7 @@ li {
 }
 
 #close{
-    /* display: none;    */
+    display: none;  
     position: absolute;
     left: 78%;
     top: -9%;
